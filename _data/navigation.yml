@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Overview"
-    url: /markdown/
+    url: /overview/
 
   - title: "People"
     url: /people/    
