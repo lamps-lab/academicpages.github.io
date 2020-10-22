@@ -240,7 +240,7 @@ defaults:
   # _people
   - scope:
       path: ""
-      type: portfolio
+      type: people
     values:
       layout: single
       author_profile: true
