@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "ODU's Mission"
 excerpt: "About"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Virginia Tech University Libraries, in collaboration with Virginia Tech Department of Computer Science and Old Dominion University Department of Computer Science recieved grant for conducting research in Mining Electronic Theses and Dissertations (ETDs). The project is motivated by the following library and community needs. (1) Despite huge volumes of book-length documents in digital libraries, there is a lack of models offering effective and efficient computational access to these long documents. (2) Nationwide open access services for ETDs generally function at the metadata level. Much important knowledge and scientific data lie hidden in ETDs, and we need better tools to mine the content and facilitate the identification, discovery, and reuse of these important components. (3) A wide range of audiences can potentially benefit from this research,
-including but not limited to Librarians, Students, Authors, Educators, Researchers, and other interested readers.
+
 
 Key Research Questions 
 ======
