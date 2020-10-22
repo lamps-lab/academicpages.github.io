@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Overview"
-    url: /publications/
+    url: /overview/
 
   - title: "People"
-    url: /talks/    
+    url: /people/    
 
   - title: "OCR"
-    url: /teaching/    
+    url: /ocr/    
     
   - title: "Metadata Extraction"
     url: /portfolio/
