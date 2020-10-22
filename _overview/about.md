@@ -1,20 +1,14 @@
 ---
 permalink: /
 title: "ODU's Mission"
-excerpt: "About"
+excerpt: "ODU's Mission"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-
-Key Research Questions 
-======
-1. How can we effectively identify and extract key parts (chapters, sections, tables, figures, citations), in both born digital and page image formats?
-2. How can we develop effective automatic classification as well as chapter summarization techniques? 
-3. How can our ETD digital library most effectively serve stakeholders?
+Old Dominion University is responsible for conducting resaerch on scanned Electtonic Theses and Dissertations (ETDs). Dr. Jian Wu is serving as a CO-PI for this research project. AT ODU, Dr. Wu is directing **Lab for Applied Machine Learning and NLP System (LAMP-SYS)** to conduct research on mining scholarly big data, including various challanges in Natural Language Processing, particularly in academic domain. As a CO-PI on this project, Dr. Wu is responsible for data acquisition and analysis. He is currently supervising two graduate research assistant to: collect data; populate ETD databases; perform analysis, information extraction, and classification; and prepare data for downstream training and searching.
 
 Research Areas
 ======

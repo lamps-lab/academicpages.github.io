@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "ETDMiner"
   avatar           : "etdMiner.png"
-  bio              : "This is one of the research project which recieved grant from Intitution of Museum and Library Services. The goal of this research is to address the problems in Electronic Theses and Dissertations and provide a solution to the scholar in academic domain"
+  bio              : "We are conducting research on metadata extraction, segmentation, building machine learning models for scanned ETDs."
   location         : "Norfolk, VA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -175,6 +175,9 @@ kramdown:
 
 # Collections
 collections:
+  Overview:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
