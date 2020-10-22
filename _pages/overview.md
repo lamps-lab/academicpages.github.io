@@ -1,5 +1,5 @@
 ---
-<!--title: "Overview"-->
+title: "Overview"
 permalink: /overview/
 author_profile: true
 redirect_from: 
