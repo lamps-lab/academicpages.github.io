@@ -175,10 +175,10 @@ kramdown:
 
 # Collections
 collections:
-  Overview:
+  overview:
     output: true
     permalink: /:collection/:path/
-  teaching:
+  ocr:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -205,6 +205,13 @@ defaults:
       comments: true
       share: true
       related: true
+  # _overview
+  - scope:
+      path: ""
+      type: overview
+    values:
+      layout: single
+      author_profile: true
   # _pages
   - scope:
       path: ""
@@ -212,7 +219,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _ocr
   - scope:
       path: ""
       type: teaching
