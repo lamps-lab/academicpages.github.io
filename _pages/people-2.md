@@ -1,6 +1,6 @@
 ---
 title: "Muntabir Hasan Choudhury"
-excerpt: "Muntabir is a Ph.D. student at Old Dominion University in the Department of Computer Science under the supervision of Dr. Jian Wu<br/><img src='/images/MuntabirChoudhury.png' alt="muntabir" width="196" height="196">"
+excerpt: "Muntabir is a Ph.D. student at Old Dominion University in the Department of Computer Science under the supervision of Dr. Jian Wu<br/><img src='/images/MuntabirChoudhury.png' alt="muntabir" width="196px" height="196px">"
 collection: people
 ---
 
