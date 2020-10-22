@@ -1,6 +1,6 @@
 ---
 title: "Jian Wu"
-excerpt: "Dr. Jian Wu is the director of the Lamps-Lab and the CO-PI for the ETD project<br/><img src='/images/jianwu.png' width="195px" height="175px">"
+excerpt: "Dr. Jian Wu is the director of the Lamps-Lab and the CO-PI for the ETD project<br/><img src='/images/jianwu.png'>"
 collection: people
 ---
 
