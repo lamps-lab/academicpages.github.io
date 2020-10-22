@@ -1,22 +1,28 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Overview"
     url: /publications/
 
-  - title: "Talks"
+  - title: "People"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "OCR"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Metadata Extraction"
+    url: /portfolio/
+  
+  - title: "ETD Collection"
     url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Publications"
+    url: /publications/
     
-  - title: "Guide"
+  - title: "Resources"
+    url: /markdown/
+  
+  - title: "Acknowledgement"
     url: /markdown/
