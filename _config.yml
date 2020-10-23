@@ -222,7 +222,7 @@ defaults:
   # _ocr
   - scope:
       path: ""
-      type: teaching
+      type: ocr
     values:
       layout: single
       author_profile: true
