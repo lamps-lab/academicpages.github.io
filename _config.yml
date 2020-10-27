@@ -178,7 +178,7 @@ collections:
   overview:
     output: true
     permalink: /:collection/:path/
-  ocr:
+  project:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -219,10 +219,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _ocr
+  # _project
   - scope:
       path: ""
-      type: ocr
+      type: project
     values:
       layout: single
       author_profile: true

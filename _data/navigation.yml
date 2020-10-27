@@ -6,14 +6,8 @@ main:
   - title: "People"
     url: /people/    
 
-  - title: "OCR"
-    url: /ocr/    
-    
-  - title: "Metadata Extraction"
-    url: /portfolio/
-  
-  - title: "ETD Collection"
-    url: /portfolio/
+  - title: "Project"
+    url: /project/
         
   - title: "Blog Posts"
     url: /year-archive/
