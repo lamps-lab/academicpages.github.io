@@ -11,15 +11,8 @@ Extracting metadata from scholarly papers is an important text mining problem. W
 
 **Heuristic Approach to Extract Metadata**
 
-Although many complicated learning-based models could be built, e.g., CRF or Support Vector Machine (SVM), to the best of our knowledge we could not find any dedicated effort and evaluation of heuristic methods with the ETD task. Heuristic methods are generally faster, suitable for capturing evident patterns. For this task, we carefully analyzed 100 scanned ETDs from MIT and Vtech libraries, and designed regular expressions for extracting seven metadata fields: titles, authors, years, degrees, academic programs, institutions, and advisors. Our model achieved an accuracy up to 97% and posed a strong baseline for further study on learning based methods.
+Although many complicated learning-based models could be built (e.g., CRF or Support Vector Machine (SVM)), to the best of our knowledge we could not find any dedicated effort and evaluation of heuristic methods with the ETD task. Heuristic methods are generally faster, suitable for capturing evident patterns. For this task, we carefully analyzed 100 scanned ETDs from MIT and Vtech libraries, and designed regular expressions for extracting seven metadata fields: titles, authors, years, degrees, academic programs, institutions, and advisors. Our model achieved an accuracy up to 97% and posed a strong baseline for further study on learning based methods.
 
 **Learning Based Approach to Extract Metadata**
 
-Currently, this research is on progress. We made a significant progress on this task and implemented CRF model with 13 features.
-
-**Tesseract OCR**
-
-
-**Google Cloud API**
-
-**Clova OCR**
+Currently, this research is on-going. We made a significant progress on this task and implemented CRF model with 13 features.
