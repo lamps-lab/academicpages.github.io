@@ -1,6 +1,10 @@
 ---
-title: "Muntabir Hasan Choudhury"
-excerpt: "Research Interest: Scholarly Big Data, NLP, Applied Machine Learning<br/><img src='/images/muntabir_choudhury.png'>"
+title: "Edward A. Fox"
+excerpt: "Research Interest: ETDs, digital libraries, information retrieval, NLP, machine learning<br/><img src='/images/Edfox.png'>"
 collection: people
 ---
-<a href="https://www.cs.odu.edu/~mchoudhury/">Personal Page</a>
+<a href="http://fox.cs.vt.edu/">VTech page</a>
+<a href="http://fox.cs.vt.edu/foxinfo.html">Personal page</a>
+<a href="https://scholar.google.com/citations?user=KcbSBrUAAAAJ&hl=en">Google Scholar</a>
+<a href="https://twitter.com/edwardafox">Twitter</a>
+<a href="https://www.linkedin.com/in/foxedward/">LinkedIn</a>
