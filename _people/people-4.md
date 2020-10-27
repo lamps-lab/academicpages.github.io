@@ -1,3 +1,4 @@
+---
 title: "Richard D. Pates, Jr."
 excerpt: "Ph.D. Student<br>Department of Computer Science<br>Old Dominion University<br>Research Interest: Neural Information Retrieval<br><img src='/images/richard.png'>"
 collection: people
