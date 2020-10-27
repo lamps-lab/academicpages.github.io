@@ -190,6 +190,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  acknowledgement:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -254,6 +257,13 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _acknowledgement
+  - scope:
+      path: ""
+      type: acknowledgement
+    values:
+      layout: single
+      author_profile: true
 
 # Sass/SCSS
 sass:
