@@ -1,6 +1,6 @@
 ---
 title: "Muntabir Hasan Choudhury"
-excerpt: "Research Interest: Scholarly Big Data, NLP, Applied Machine Learning<br><img src='/images/muntabir_choudhury.png'>"
+excerpt: "Ph.D. Student<br>Department of Computer Science<br>Old Dominion University<br>Research Interest: Scholarly Big Data, NLP, Applied Machine Learning<br><img src='/images/muntabir_choudhury.png'>"
 collection: people
 ---
 <a href="https://www.cs.odu.edu/~mchoudhury/">Personal Page</a><br>

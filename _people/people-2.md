@@ -1,6 +1,6 @@
 ---
 title: "Edward A. Fox"
-excerpt: "Research Interest: ETDs, digital libraries, information retrieval, NLP, machine learning<br><img src='/images/Edfox.png'>"
+excerpt: "Professor<br>Depatment of Computer Science<br>Virginia Polytechnic Institute And State University<br>Research Interest: ETDs, digital libraries, information retrieval, NLP, machine learning<br><img src='/images/Edfox.png'>"
 collection: people
 ---
 <a href="http://fox.cs.vt.edu/">VTech page</a><br>
