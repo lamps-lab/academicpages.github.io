@@ -1,6 +1,6 @@
 ---
 title: "Jian Wu"
-excerpt: "Research Interest: Applied Machine Learning, NLP, Information Retrieval, Scholarly Big Data<br>Assistant Professor<br>Department of Computer Science<br>Old Dominion University<img src='/images/jianwu.png'>"
+excerpt: "Assistant Professor<br>Department of Computer Science<br>Old Dominion University<br>Research Interest: Applied Machine Learning, NLP, Information Retrieval, Scholarly Big Data<br><img src='/images/jianwu.png'>"
 collection: people
 ---
 <a href="https://www.cs.odu.edu/~jwu/">Personal Page</a><br>
