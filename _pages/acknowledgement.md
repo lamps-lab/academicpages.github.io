@@ -6,9 +6,9 @@ redirect_from:
   - /acknowledgement
 ---
 <p>
-<img src='/images/imls.jpeg' width="300px" height="300px">
+<img src='/images/imls.jpeg' width="300px" height="300px"><br>
 Support was made in part by the Institute of Museum and Library Services for grant LG-37-19-0078-198.
 </p>
 <p>
-This project was supported in part by ProQuest, which provided access to TDM Studio. The university subscribes to the dataset, ProQuest Dissertations & Theses (PQDT).
+We would like to thank you ProQuest for supporting a part of this project.
 </p>
