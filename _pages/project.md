@@ -12,12 +12,12 @@ Extracting metadata from scholarly papers is an important text mining problem. W
 **Heuristic Approach to Extract Metadata**
 
 
-Although many complicated learning-based models could be built (e.g., CRF or Support Vector Machine (SVM)), to the best of our knowledge we could not find any dedicated effort and evaluation of heuristic methods with the ETD task. Heuristic methods are generally faster, suitable for capturing evident patterns. For this task, we carefully analyzed 100 scanned ETDs from MIT and Vtech libraries, and designed regular expressions for extracting seven metadata fields: titles, authors, years, degrees, academic programs, institutions, and advisors. Our model achieved an accuracy up to 97% and posed a strong baseline for further study on learning based methods.
+Although many complicated learning-based models could be built (e.g., CRF or Support Vector Machine (SVM)), to the best of our knowledge we could not find any dedicated effort and evaluation of heuristic methods with the ETD task. Heuristic methods are generally faster, suitable for capturing evident patterns. For this task, we carefully analyzed 100 scanned ETDs from MIT and Vtech libraries, and designed regular expressions (RegEx) for extracting seven metadata fields: titles, authors, years, degrees, academic programs, institutions, and advisors. Our model achieved an accuracy up to 97% and posed a strong baseline for further study on learning based methods. The following figure (Figure 1) is illustrating an example of extracting the degree field using RegEx.
 <div style="text-align: justify;">
 <br /></div>
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="/images/flowchart-ETDMiner.png" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="833" data-original-width="949" height="560" src="/images/flowchart-ETDMiner.png" width="640" /></a></td></tr>
-<tr><td class="tr-caption" style="text-align: center;"><span style="font-size: 12.8px;">Figure 1: Metadata Extraction Framework</span></td></tr>
+<tr><td style="text-align: center;"><a href="/images/degree_regex.png" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="833" data-original-width="949" height="560" src="/images/degree_regex.png" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;"><span style="font-size: 12.8px;">Figure 1: Example of degree field extraction using RegEx from MIT and Virginia Tech ETDs</span></td></tr>
 </tbody></table>
 
 **Learning Based Approach to Extract Metadata**
