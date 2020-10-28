@@ -17,15 +17,35 @@ Although many complicated learning-based models could be built (e.g., CRF or Sup
 <br /></div>
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
 <tr><td style="text-align: center;"><a href="/images/flowchart-ETDMiner.png" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="833" data-original-width="949" height="560" src="/images/flowchart-ETDMiner.png" width="640" /></a></td></tr>
-<tr><td class="tr-caption" style="text-align: center;"><span style="font-size: 12.8px;">Figure-1: Metadata Extraction Framework</span></td></tr>
+<tr><td class="tr-caption" style="text-align: center;"><span style="font-size: 12.8px;">Figure 1: Metadata Extraction Framework</span></td></tr>
 </tbody></table>
 
 **Learning Based Approach to Extract Metadata**
-----
 
 Currently, this research is on-going. We made a significant progress on this task and implemented CRF model with 13 features.
 
 OCR
 ======
+Many state-of-the-art open access tools exhibit satisfactory performance with certain types of documents, experiments indicate that they tend to produce unacceptable errors or fail for scanned ETDs. Due to imperfection of OCR technique, it produces noisy data and lots of misspellings. Therefore, we compared three OCR tools based on how much clean data they generated with less misspellings.
+
 **Tesseract-OCR**
+We applied tesseract-OCR while implementing the hueristic approach for extracting metadata from the cover pages of scanned ETDs. We chose tesseract-OCR because it is a widely adopted open source tool that takes any printed or scanned fonts, supports more than 100 languages, and returns output in text, hOCR, PDF, and other formats. Intially, we compared tesseract-OCR with OpenCV OCR with EAST detector. However, OpenCV OCR failed to recognize text from scanned ETDs, produced lots of errors, and did not provide the expected result. On the contrary, our experiemnts shows that tesseract-OCR perfomed a better job over OpenCV OCR since it produced less errors and misspellings. Figure 2 is illustrating the result of the tessearct-OCR on the cover pages of scanned ETDs. More information can be found on <a href="https://lamps-lab.github.io/posts/2020/05/blog-post-1/">OCR Tools Experiments</a> in the Blog Posts menu.
+<div style="text-align: justify;">
+<br /></div>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="/images/tesseract-text.png" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="833" data-original-width="949" height="560" src="/images/tesseract-text.png" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;"><span style="font-size: 12.8px;">Figure 2: Tesseract OCR result on the cover page of scanned ETDs</span></td></tr>
+</tbody></table>
+<div style="text-align: justify;">
+<br /></div>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="/images/tesseract-text.png" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="833" data-original-width="949" height="560" src="/images/tesseract-text.png" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;"><span style="font-size: 12.8px;">Figure 3: Google API OCR result on the cover page of scanned ETDs</span></td></tr>
+</tbody></table>
+
+**Google Cloud API OCR**
+
+
+
+
 
