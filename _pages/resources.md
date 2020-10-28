@@ -6,10 +6,10 @@ redirect_from:
   - /resources
 ---
 
-<a href="https://dspace.mit.edu/">MIT DSpace</a>
-<a href="https://vtechworks.lib.vt.edu/handle/10919/5534">VTech ETD Library</a>
-<a href="https://github.com/tesseract-ocr/tesseract">tesseract</a>
-<a href="https://cloud.google.com/functions/docs/tutorials/ocr">Google Cloud API OCR</a>
-<a href="https://github.com/clovaai/deep-text-recognition-benchmark">Clova Deep Text Recognition</a>
-<a href="https://github.com/clovaai/CRAFT-pytorch">Clova Text Detection (CRAFT)</a>
+<a href="https://dspace.mit.edu/">MIT DSpace</a><br>
+<a href="https://vtechworks.lib.vt.edu/handle/10919/5534">VTech ETD Library</a><br>
+<a href="https://github.com/tesseract-ocr/tesseract">tesseract</a><br>
+<a href="https://cloud.google.com/functions/docs/tutorials/ocr">Google Cloud API OCR</a><br>
+<a href="https://github.com/clovaai/deep-text-recognition-benchmark">Clova Deep Text Recognition</a><br>
+<a href="https://github.com/clovaai/CRAFT-pytorch">Clova Text Detection (CRAFT)</a><br>
 <a href="https://clova.ai/ocr">Clova OCR (demo)</a>
