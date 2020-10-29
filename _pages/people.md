@@ -9,8 +9,8 @@ This project is directing by the people from Virginia Tech University including 
 
 <a href="https://www.cs.odu.edu/~jwu/" target="_blank">Dr. Jian Wu</a> (Co-PI)
 ===
+<img src='/images/jianwu.png' width="195px" height="195px">
 <p>
-<img src='/images/jianwu.png'>
 Assistant Professor<br>
 Department of Computer Science<br>
 Old Dominion University<br>
