@@ -13,7 +13,7 @@ Data Source
 
 Technologies/APIs
 ---
-<a href="https://github.com/tesseract-ocr/tesseract">tesseract</a><br>
+<a href="https://github.com/tesseract-ocr/tesseract">Tesseract</a><br>
 <a href="https://cloud.google.com/functions/docs/tutorials/ocr">Google Cloud API OCR</a><br>
 <a href="https://github.com/clovaai/deep-text-recognition-benchmark">Clova Deep Text Recognition</a><br>
 <a href="https://github.com/clovaai/CRAFT-pytorch">Clova Text Detection (CRAFT)</a><br>
