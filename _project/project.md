@@ -6,7 +6,7 @@ redirect_from:
   - /project
 ---
 
-Project 1: Metadata Extraction from scanned ETDs
+Metadata Extraction from scanned ETDs
 ======
 by **Muntabir Hasan Choudhury**
 
