@@ -37,6 +37,6 @@ Ph.D. Student<br>
 Department of Computer Science<br>
 Old Dominion University<br>
 Research Interest: Neural Information Retrieval<br>
-Contribution: Richard is a 3rd year Ph.D. student. His responsibility inclues but is not limited to performing web crawling, preparing data for downstream training, and creating database.
+Contribution: Richard is a 3rd year Ph.D. student. His responsibility includes but is not limited to performing web crawling, preparing data for downstream training, and creating the database for search engine.
 </p>
 
