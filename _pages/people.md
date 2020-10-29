@@ -26,7 +26,7 @@ Ph.D. Student<br>
 Department of Computer Science<br>
 Old Dominion University<br>
 Research Interest: Scholarly Big Data, NLP, Applied Machine Learning<br>
-Contribution: Muntabir is a 2nd year Ph.D. student, and researching mining scanned ETDs. His responsibility includes but is not limited to utilizing and analyzing machine learning (ML)techniques, perform data analysis, and implementing the model to train downstream data.  
+Contribution: Muntabir is a 2nd year Ph.D. student, and researching mining scanned ETDs. His responsibility includes but is not limited to utilizing and analyzing machine learning (ML) techniques, perform data analysis, and implementing the model to train downstream data.  
 </p>
 
 <a href="https://www.cs.odu.edu/~rpates/" target="_blank">Richard D. Pates, Jr.</a>
